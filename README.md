@@ -8,8 +8,9 @@ This repository contains cloud projects completed as part of [NextWork](https://
 - Learn to set up and configure an S3 bucket for public website hosting.
 - Uses: `Amazon S3`, `Bucket Policies`, `ACL`, `Static Site Hosting`.
 
-### 2. [Project Name] (./project-2-name)
-- Description of what you’ll add here next.
+### 2. [VPC-Projects] (./vpc-projects)
+- Learn to create a use Amazon VPCs.
+- Uses `Amazon VPC`, `Amazon EC2 Instances`, `ACL`, `Security Groups`.
 
 ## Author
 
