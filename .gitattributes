@@ -1,0 +1,2 @@
+# Treat every HTML file as “vendored” so Linguist ignores them
+*.html linguist-vendored
